@@ -1,0 +1,117 @@
+# GC Praesidium community
+
+This repository accompanies the **GC-arc (Germinal Centre governance) series**, a sequence of
+conceptual and mathematical papers developing a **capacity-limited governance framework** for
+adaptive immune systems.
+
+The series culminates in **GC-arc7**, which introduces **oligoclonal capture** as a distinct
+failure mode of germinal-centre regulation, with implications for immune stability, chronic
+disease, and global health.
+
+All papers are archived on Zenodo with permanent DOIs.
+
+---
+
+## GC-arc7 (current paper)
+
+**Oligoclonal Capture as a Failure Mode of Governance in Adaptive Systems:  
+Implications for Immune Stability, Chronic Disease, and Global Health**
+
+James Sutton (2025-2026)
+
+📄 Zenodo: https://doi.org/10.5281/zenodo.18163641
+
+GC-arc7 synthesises experimental immunology, Bayesian inference, and capacity-limited dynamical
+systems to propose that certain chronic immune pathologies arise not from excessive activation
+or defective tolerance alone, but from **collapse of comparative selection and recoverability**
+under finite regulatory capacity.
+
+---
+
+## The GC-arc series (papers 1–7)
+
+### GC-arc2  
+**Geometry–Time Governance in Adaptive Dynamical Systems**  
+James Sutton (2026)  
+📄 https://doi.org/10.5281/zenodo.18147840
+
+Introduces the general concept of governance under finite capacity, focusing on admissibility,
+temporal ordering, and persistence independent of optimisation.
+
+---
+
+### GC-arc3  
+**A Migration-Driven Instability Ridge in Germinal-Centre Governance as a Systems Framework for Autoimmune Risk**  
+James Sutton (2025)  
+📄 https://doi.org/10.5281/zenodo.18109610
+
+Applies capacity-limited governance to germinal centres, identifying a non-monotonic instability
+ridge driven by effective lineage migration and mixing.
+
+---
+
+### GC-arc4  
+**Capacity-Limited Governance and Instability in Adaptive Dynamical Systems**  
+James Sutton (2025)  
+📄 https://doi.org/10.5281/zenodo.18109667
+
+Formalises the general mathematics of capacity-limited regulation, variance amplification,
+hysteresis, and recovery failure across adaptive systems.
+
+---
+
+### GC-arc5  
+**Governance, Temperature, and Recovery: Why Diversity Requires Structure Across Biology and Society**  
+James Sutton (2026)  
+📄 https://doi.org/10.5281/zenodo.18134579
+
+Extends the governance framework beyond immunity, showing how diversity, perturbation
+intensity (“temperature”), and recovery interact across biological and social systems.
+
+---
+
+### GC-arc6  
+**Constraint-Driven Collapse as a Unifying Principle of Molecular and Immune Function**  
+James Sutton (2025)  
+📄 https://doi.org/10.5281/zenodo.18110023
+
+Unifies molecular and immune failure modes as loss of admissibility and recoverability under
+constraint collapse, rather than pathway-specific malfunction.
+
+---
+
+### GC-arc7  
+**Oligoclonal Capture as a Failure Mode of Governance in Adaptive Systems**  
+James Sutton (2026)  
+📄 https://doi.org/10.5281/zenodo.18163641
+
+Defines oligoclonal capture, integrates Bayesian and capacity-limited formalisms, and connects
+germinal-centre governance failure to chronic immune disease and public-health fragility.
+
+---
+
+## Scope and positioning
+
+- The GC-arc series is **independent of the GQR/QGE programme**.
+- All mathematics used here is **classical**, drawing on dynamical systems, control theory,
+  and Bayesian inference.
+- The novelty lies in **importing ridge-structured, capacity-limited governance concepts into
+  immunology**, particularly in the context of somatic hypermutation and germinal-centre dynamics.
+
+---
+
+## Intended audience
+
+- Immunologists and clinician-scientists
+- Systems biologists
+- Researchers studying chronic immune disease, relapse, and recovery
+- Readers interested in governance and stability of adaptive biological systems
+
+---
+
+## Citation
+
+If you use or discuss this work, please cite the relevant Zenodo record(s).  
+GC-arc7 should be cited as:
+
+> Sutton J. *Oligoclonal Capture as a Failure Mode of Governance in Adaptive Systems: Implications for Immune Stability, Chronic Disease, and Global Health.* Zenodo; 2026. https://doi.org/10.5281/zenodo.18163641
