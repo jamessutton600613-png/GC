@@ -1,35 +1,87 @@
 # GC Praesidium community
 
 This repository accompanies the **GC-arc (Germinal Centre governance) series**, a sequence of
-conceptual and mathematical papers developing a **capacity-limited governance framework** for
-adaptive immune systems.
+conceptual and mathematical papers developing a **capacity-limited governance framework**
+for adaptive immune systems.
 
-The series culminates in **GC-arc7**, which introduces **oligoclonal capture** as a distinct
-failure mode of germinal-centre regulation, with implications for immune stability, chronic
-disease, and global health.
+The programme examines how germinal centres maintain stability under competing pressures
+from mutation, selection, diversity, and regulation, and how distinct failure modes arise
+when governance capacity is exceeded or misaligned.
 
 All papers are archived on Zenodo with permanent DOIs.
 
 ---
 
-## GC-arc7 (current paper)
+## GC-arc8 (current synthesis)
+
+**Immune-complex architecture resolves the antigen-persistence paradox in B-cell memory**
+
+James Sutton (2026)
+
+📄 Zenodo: https://doi.org/10.5281/zenodo.18176310
+
+GC-arc8 provides a biological synthesis of the GC-arc programme, focusing on experimental
+immunology rather than mathematical derivation. It reframes immune memory as a governed,
+multi-layer process in which **antigen accessibility**, **immune-complex architecture**, and
+**inhibitory Fc receptor signalling** determine when memory is expressed rather than whether
+it exists.
+
+Key contributions include:
+- resolution of the long-standing paradox between antigen-independent memory persistence and
+  antigen-dependent recall;
+- treatment of immune complexes as structured, mechanically and signalling-governed
+  intermediates rather than passive antigen depots;
+- integration of IgM/J-chain/complement architecture with FcγRIIB-mediated inhibitory gating;
+- interpretation of latent memory as an active governance state rather than failure;
+- synthesis of instability ridge, hysteresis, and oligoclonal capture concepts into
+  germinal-centre biology.
+
+GC-arc8 serves as the immunological capstone of the series and is written as a conceptual
+review suitable for perspective and synthesis contexts.
+
+---
+
+## GC-arc7
 
 **Oligoclonal Capture as a Failure Mode of Governance in Adaptive Systems:  
 Implications for Immune Stability, Chronic Disease, and Global Health**
 
-James Sutton (2025-2026)
+James Sutton (2025–2026)
 
 📄 Zenodo: https://doi.org/10.5281/zenodo.18163641
 
-GC-arc7 synthesises experimental immunology, Bayesian inference, and capacity-limited dynamical
-systems to propose that certain chronic immune pathologies arise not from excessive activation
-or defective tolerance alone, but from **collapse of comparative selection and recoverability**
-under finite regulatory capacity.
+GC-arc7 identifies **oligoclonal capture** as a generic failure mode of capacity-limited
+governance in adaptive systems, synthesising experimental immunology, Bayesian inference,
+and dynamical systems theory. It argues that chronic immune pathologies can arise from
+collapse of comparative selection and recoverability rather than from excessive activation
+or defective tolerance alone.
 
 ---
 
-## The GC-arc series (papers 1–7)
+## The GC-arc series (papers 1–8)
 
+The GC-arc series develops in stages:
+
+- **GC-arc2 / Immuno2** – Germinal centres as governed biological systems; instability of
+  strict monoclonality and limits of unstructured diversity.
+- **GC-arc3 / Immuno3** – Discovery of a migration-driven instability ridge in germinal-centre
+  governance.
+- **GC-arc4 / Math2** – Minimal mathematical framework for capacity-limited governance,
+  hysteresis, and recovery failure.
+- **GC-arc5** – Temperature- and recovery-like effects in adaptive systems; diversity
+  requires structure.
+- **GC-arc6** – Constraint-driven collapse as a unifying principle across molecular and
+  immune contexts.
+- **GC-arc7** – Oligoclonal capture as a failure mode with implications for chronic disease.
+- **GC-arc8** – Biological synthesis resolving antigen persistence, latent memory, immune
+  complexes, and Fc-mediated governance in B-cell memory.
+
+---
+
+This repository is intended as an open, versioned record of the GC-arc programme.
+Individual papers may be read independently, but the full series documents the progressive
+development of a governance-based interpretation of germinal-centre function and immune
+memory.
 ### GC-arc1  
 **Civilisation as a Gene Mangler: A Questioned Dialogue with Earth Logic**  
 James Sutton (2025)  
@@ -104,6 +156,10 @@ germinal-centre governance failure to chronic immune disease and public-health f
 
 ---
 
+
+
+
+
 ## Scope and positioning
 
 - The GC-arc series is **independent of the GQR/QGE programme**.
@@ -126,6 +182,3 @@ germinal-centre governance failure to chronic immune disease and public-health f
 ## Citation
 
 If you use or discuss this work, please cite the relevant Zenodo record(s).  
-GC-arc7 should be cited as:
-
-> Sutton J. *Oligoclonal Capture as a Failure Mode of Governance in Adaptive Systems: Implications for Immune Stability, Chronic Disease, and Global Health.* Zenodo; 2026. https://doi.org/10.5281/zenodo.18163641
