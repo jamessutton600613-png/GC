@@ -52,6 +52,31 @@ GC Zenodo community.
 
 
 
+## Foundational preGQR / preGC releases (January 2026)
+
+Two early-stage conceptual papers have recently been added to Zenodo and linked
+to both the **Germinal Center (GC)** and **GQR** communities. These works predate
+the formal GC-arc series and provide the **conceptual and mechanistic foundations**
+from which later invariant-governed analyses emerged.
+
+They are released for completeness and historical continuity, and may be useful
+to readers interested in the developmental arc of the programme.
+
+- **preGQR2 / preGC2 — The Quantum-Classical Tumbling Locomotion (QC-TCL) Hypothesis**  
+  Proposes a unified geometric framework linking catalysis, self-assembly, and
+  biological selection through constrained rotational and tumbling dynamics.  
+  Zenodo DOI: https://doi.org/10.5281/zenodo.18299933
+
+- **preGQR1 / preGC1 — 6D Rotary Engines**  
+  Explores a high-dimensional mechanistic framework for delocalised π-electron
+  catalysis, exciton/phonon flow, and quantum tunnelling, serving as an early
+  precursor to later geometry-first formulations.  
+  Zenodo DOI: https://doi.org/10.5281/zenodo.18300110
+
+These preprints are **not required** for understanding the current GC-arc papers,
+but document the conceptual trajectory leading to invariant-governed accessibility
+and GICT-based analysis.
+
 
 ## 🧬 GC (Germinal Centre) Community — News Update  
 
